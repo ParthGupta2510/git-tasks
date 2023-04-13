@@ -27,6 +27,8 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries 
 
+Shrirang Elkunchwar [Shrirrangop](https://github.com/Shrirangop).
+
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
