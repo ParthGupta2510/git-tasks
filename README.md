@@ -26,6 +26,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 
 ### Entries 
+Md Zeeshan Alam [thezeeshaan](https://github.com/thezeeshaan)
 
 ## Task 2
 
