@@ -19,14 +19,14 @@ Add your name to this list below 'Entries'.
 
 Your entry should maintain alphabetic order and it should be in the format:
    * ` your name [username](http://github.com/username)`.  
-
+        
 
 - Your Pull Request must have only one commit (if there are multiple commits, you should squash them).
 - Only one file should be there in the diff of your Pull Request.
 
 
 ### Entries 
-
+Sanchit Garg [sanchitgarg2204](https://github.com/sanchitgarg2204).
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
