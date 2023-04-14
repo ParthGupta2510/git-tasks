@@ -26,7 +26,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 
 ### Entries 
-Shubha Ruidas [shubha987] (http://github.com/shubha987)
+"Shubha Ruidas [shubha987] (http://github.com/shubha987)"//merge conflicts 
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
