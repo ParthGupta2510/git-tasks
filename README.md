@@ -26,7 +26,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 
 ### Entries 
-"Shubha Ruidas [shubha987] (http://github.com/shubha987)"//merge conflicts 
+Shubha Ruidas [shubha987] (http://github.com/shubha987)
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
@@ -35,6 +35,7 @@ After all of you send a Pull Request, I'll add my name to 'Entries'.
 - Try to merge upstream changes into your downstream repository. You'll get 'merge conflicts'. 
 - [Remove the merge conflicts](https://help.github.com/en/articles/resolving-a-merge-conflict-using-the-command-line) and create another pull request.
 
+print("hello i am an associate development member of developers' society")
 
 ## Task 3
 
