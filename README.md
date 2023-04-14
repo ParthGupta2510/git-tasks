@@ -26,6 +26,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 
 ### Entries 
+Rakin Absar [Rakincoder17](https://github.com/Rakincoder17)
 
 ## Task 2
 
