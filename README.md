@@ -34,9 +34,6 @@ After all of you send a Pull Request, I'll add my name to 'Entries'.
 - Configure a remote that points to the upstream repository in Git to sync changes you make in a fork with the original repository. 
 - Try to merge upstream changes into your downstream repository. You'll get 'merge conflicts'. 
 - [Remove the merge conflicts](https://help.github.com/en/articles/resolving-a-merge-conflict-using-the-command-line) and create another pull request.
-
-print("hello i am an associate development member of developers' society")
-
 ## Task 3
 
 - Create a new branch (called Task3) in your fork. Add a dummy piece of code and push it to the current branch. 
