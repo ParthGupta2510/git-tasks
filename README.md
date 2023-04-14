@@ -26,6 +26,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 
 ### Entries 
+Samarth Sharma [sash-011] (https://github.com/sash-011) 
 
 ## Task 2
 
