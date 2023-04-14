@@ -27,6 +27,8 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries 
 
+Srinjoy Ganguly [srinjoy-not-007](https://github.com/srinjoy-not-007)
+
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
@@ -63,4 +65,9 @@ Some guidelines for the tasks:
 * Your Pull Request must be rebased on the latest master.  
 * This commit must have a message that is explanatory. For eg. for Task 1: `Add name to README (Name here)`.
 * Name of the PR must be informative. For eg. for Task 1: `(Task1) Add my name to the README (Name here)`.
-
+random 1
+random 2
+random 3
+random 4
+random 5
+random 6
