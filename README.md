@@ -13,7 +13,7 @@ This file is written in the [Markdown format](https://guides.github.com/features
 ## Task 1
 
 Add your name to this list below 'Entries'.
-
+git
 - **Fork the repo, create a new branch (called Task1), make changes and send a pull request**
   - [This article](https://help.github.com/articles/using-pull-requests/) should give you a good idea of what pull requests are how to use them.
 
@@ -26,7 +26,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 
 ### Entries 
-
+Shubha Ruidas [shubha987] (http://github.com/shubha987)
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
@@ -34,8 +34,6 @@ After all of you send a Pull Request, I'll add my name to 'Entries'.
 - Configure a remote that points to the upstream repository in Git to sync changes you make in a fork with the original repository. 
 - Try to merge upstream changes into your downstream repository. You'll get 'merge conflicts'. 
 - [Remove the merge conflicts](https://help.github.com/en/articles/resolving-a-merge-conflict-using-the-command-line) and create another pull request.
-
-
 ## Task 3
 
 - Create a new branch (called Task3) in your fork. Add a dummy piece of code and push it to the current branch. 
@@ -57,6 +55,7 @@ Use reset to **remove this commit**.
 - Now you want to **remove some intermediate commits**. Remove commit no. 2 and 4 using rebase.
 - Push all the commits into Task5 and create a Pull Request.
 
+print("hello may i have your time!!!!!!!!!!")
 
 Some guidelines for the tasks:
 
