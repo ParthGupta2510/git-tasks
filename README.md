@@ -42,7 +42,7 @@ After all of you send a Pull Request, I'll add my name to 'Entries'.
 - You've now realized that you pushed something wrong. Instead of removing the commit altogether, **push another commit that will undo the changes made**. 
 - Create a pull request.
 
-System.out.println("HELLO WORLD!");
+
 
 Why not remove the commit altogether? \
 This prevents Git from losing history, which is important for the integrity of your revision history and for reliable collaboration.
