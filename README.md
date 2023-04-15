@@ -26,6 +26,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 
 ### Entries 
+Shreya Bharti [ayerhssb] (https://github.com/ayerhssb)
 
 ## Task 2
 
