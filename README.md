@@ -24,8 +24,9 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Your Pull Request must have only one commit (if there are multiple commits, you should squash them).
 - Only one file should be there in the diff of your Pull Request.
 
-
+ 
 ### Entries 
+Nishant kumawat [Nishu1103](http://github.com/Nishu1103)
 
 ## Task 2
 
@@ -34,7 +35,7 @@ After all of you send a Pull Request, I'll add my name to 'Entries'.
 - Configure a remote that points to the upstream repository in Git to sync changes you make in a fork with the original repository. 
 - Try to merge upstream changes into your downstream repository. You'll get 'merge conflicts'. 
 - [Remove the merge conflicts](https://help.github.com/en/articles/resolving-a-merge-conflict-using-the-command-line) and create another pull request.
-
+IIT KHARAGPUR
 
 ## Task 3
 
